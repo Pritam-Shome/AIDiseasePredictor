@@ -4,7 +4,7 @@
 A web-based application using machine learning to predict potential health conditions based on patient data. Built with Streamlit and Random Forest Classifier.
 
 ## Live Demo 🚀
-[https://github.com/Pritam-Shome/AIDiseasePredictor](#) <!-- Add your deployed app link -->
+[View Live Demo](https://pritam-shome-aidiseasepredictor-app-q2qa6a.streamlit.app/) 
 
 ## Features
 - Real-time disease prediction
